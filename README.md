@@ -112,9 +112,8 @@ As a software engineer, I'm self-driven, self-motivated person who always work h
 ---
 
 
-<p align="center">
-<a href="https://github.com/arosha0909">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arosha0909&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&bg_color=34,e96443,904e95&title_color=fff&text_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arosha0909&theme=gruvbox&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"/>
-</a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arosha0909&show_icons=true&locale=en&layout=compact" alt="arosha0909" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arosha0909&show_icons=true&locale=en" alt="arosha0909" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arosha0909&" alt="arosha0909" /></p>
