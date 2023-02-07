@@ -2,7 +2,7 @@
 
 **` 🤓💻 I'm a Software Engineer/ Youtuber`**
 
-As a software engineer and I'm self-driven, self-motivated person who always work hard and IT professional with several years of experience in web application development as a full stack developer. I am a good team player who has good technical, leadership, analytic thinking and problem-solving skills while being a fast learner as well as I dedicate myself to building and crafting the digital world from the ground up. My coding projects and video content on my YouTube channel [DEV](https://www.youtube.com/channel/UC707Drw6VUVowOTufCAh0wg).
+As a software engineer, I'm self-driven, self-motivated person who always work hard and IT professional with several years of experience in web application development as a full stack developer. I am a good team player who has good technical, leadership, analytic thinking and problem-solving skills while being a fast learner as well as I dedicate myself to building and crafting the digital world from the ground up. My coding projects and video content on my YouTube channel [DEV](https://www.youtube.com/channel/UC707Drw6VUVowOTufCAh0wg).
 
 <p align="center">
       <a href="https://www.youtube.com/channel/UC707Drw6VUVowOTufCAh0wg?sub_confirmation=1">
