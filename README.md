@@ -19,21 +19,71 @@ As a software engineer, I'm self-driven, self-motivated person who always work h
 
 ### 🧰 Languages and Tools
 
+<p align="left"> 
+      <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+            <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+      </a>
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>       </a> 
+      <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+      </a> 
+      <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+      </a> 
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+      </a> 
+      <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+      </a> 
+      <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+      </a> 
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>           </a> 
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>           </a> 
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+      </a> 
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+      </a> 
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+      </a> 
+      <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+      </a> 
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>           </a> 
+      <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+      </a> 
+      <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
+      </a> 
+</p>
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="Mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Mongo DB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <br>
 
 #
@@ -52,9 +102,12 @@ As a software engineer, I'm self-driven, self-motivated person who always work h
 
 <br>
 
-- 📲 You can reach me on [Facebook](https://www.facebook.com/arosha0909)
-- 📲 You can reach me on [Linkedin](https://www.linkedin.com/in/arosha-rukshan-a41794148/)
-- 📲 You can reach me on [Instagram](https://www.instagram.com/arosha____rj/)
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/arosha0999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/arosha0999" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/arosha-rukshan-a41794148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arosha-rukshan-a41794148/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/arosha0909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arosha0909" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc707drw6vuvowotufcah0wg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc707drw6vuvowotufcah0wg" height="30" width="40" /></a>
+</p>
 
 ---
 
