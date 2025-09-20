@@ -30,5 +30,5 @@ React · Angular · Vue · Node.js · Express · TypeScript · Dart · Flutter �
 ## 📫 Connect & Portfolio
 
 - Website / Portfolio: [arosharj.com](https://arosharj.com)  
-- YouTube: [DEV channel](https://www.youtube.com/channel/…)  
-- LinkedIn: [Arosha Rukshan](https://www.linkedin.com/in/arosha-rukshan-…)  
+- YouTube: [DEV channel](https://www.youtube.com/@dev_arosharj)  
+- LinkedIn: [Arosha Rukshan](https://www.linkedin.com/in/arosha-rukshan-15486a193/)  
